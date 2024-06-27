@@ -1,0 +1,42 @@
+# 🖥️ Exercícios de Lógica de Programação em Java
+
+![Status](https://img.shields.io/badge/Status-Concluído-green)
+
+## 🗂️ Estrutura do Repositório
+Este repositório contém uma série de exercícios de lógica de programação em Java, organizados por tópicos em pastas específicas. Cada pasta representa um conjunto de exercícios focados em um tema particular. Aqui está a estrutura das pastas:
+1. **[Operadores e Condicionais](./1-OperadoresECondicionais)**
+2. **[Estruturas de Repetição While](./2-EstruturaDeRepeticãoWhile)**
+3. **[Estruturas de Repetição Do-While](./3-EstruturaDeRepeticãoDoWhile)**
+4. **[Estruturas de Repetição For](./4-EstruturaDeRepeticãoFor)**
+5. **[Vetores](./5-Vetores)**
+6. **[Matrizes](./6-Matrizes)**
+
+## 🛠️ Tecnologias Utilizadas
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 🚀 Como Executar
+Para rodar esses exercícios localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/pamyszz/exercicios-java.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd exercicios-java
+   ```
+3. Abra o Visual Studio Code:
+   ```bash
+   code .
+   ```
+4. Navegue até a pasta do exercício desejado e execute o arquivo `.java`.
+
+## 🧑‍💻 Autores
+- ![Pamela Miranda](https://github.com/pamyszz.png?size=50) **[Pamela Szz](https://github.com/pamyszz)**
+
+## 🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
