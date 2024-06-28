@@ -19,7 +19,6 @@ Este repositório contém uma série de exercícios de lógica de programação 
 
 ## 🚀 **Como Executar**
 Para rodar esses exercícios localmente, siga os passos abaixo:
-
 1. Clone este repositório:
    ```bash
    git clone https://github.com/pamyszz/Exercicios-Java110.git
@@ -35,7 +34,6 @@ Para rodar esses exercícios localmente, siga os passos abaixo:
 4. Navegue até a pasta do exercício desejado e execute o arquivo `.java`.
 
 ## 🧑‍💻 **Autora**
-
 <div align="left">
   <a href="https://github.com/pamyszz">
     <img src="https://github.com/pamyszz.png?size=100" alt="Pamela Miranda" width="100" style="border-radius: 50%;">
